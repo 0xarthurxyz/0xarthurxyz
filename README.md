@@ -1,1 +1,1 @@
-Moved to [@arthurgousset](https://github.com/arthurgousset)
+Moved to [github.com/arthurgousset](https://github.com/arthurgousset)
